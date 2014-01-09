@@ -1,2 +1,2 @@
-mahoutLearning
+MahoutLearning
 ==============
